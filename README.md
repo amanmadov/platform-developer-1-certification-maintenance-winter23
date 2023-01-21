@@ -3,7 +3,9 @@
 
 Updates to Salesforce Platform Developer I Certification Winter 2023<br>
 Hands-On Challenge Solution For `Apex Assertions` <br>
-<a href="https://trailhead.salesforce.com/content/learn/modules/platform-developer-i-certification-maintenance-winter-23/" target="_blank">Module Link</a>
+<a href="https://trailhead.salesforce.com/content/learn/modules/platform-developer-i-certification-maintenance-winter-23/" target="_blank">Module Link</a><br>
+<a href="https://developer.salesforce.com/docs/atlas.en-us.240.0.apexref.meta/apexref/apex_class_System_Assert.htm" target="_blank">APEX Assert Class Documentation</a><br>
+
 
 
 <br>
